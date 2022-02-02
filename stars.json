@@ -1,39 +1,39 @@
 [
   {
     "full_name": "microsoft/ML-For-Beginners",
-    "stargazers_count": 28862,
-    "open_issues_count": 9,
-    "forks_count": 5917
+    "stargazers_count": 28900,
+    "open_issues_count": 6,
+    "forks_count": 5934
   },
   {
     "full_name": "davidfowl/AspNetCoreDiagnosticScenarios",
-    "stargazers_count": 4907,
-    "open_issues_count": 22,
-    "forks_count": 467
+    "stargazers_count": 4920,
+    "open_issues_count": 23,
+    "forks_count": 468
   },
   {
     "full_name": "dotnet/pinvoke",
-    "stargazers_count": 1577,
+    "stargazers_count": 1580,
     "open_issues_count": 57,
     "forks_count": 170
   },
   {
     "full_name": "radzenhq/radzen-blazor",
-    "stargazers_count": 1472,
-    "open_issues_count": 42,
+    "stargazers_count": 1480,
+    "open_issues_count": 32,
     "forks_count": 286
   },
   {
     "full_name": "bradtraversy/design-resources-for-developers",
-    "stargazers_count": 35346,
-    "open_issues_count": 0,
-    "forks_count": 8116
+    "stargazers_count": 35423,
+    "open_issues_count": 1,
+    "forks_count": 8133
   },
   {
     "full_name": "bUnit-dev/bUnit",
-    "stargazers_count": 638,
-    "open_issues_count": 23,
-    "forks_count": 67
+    "stargazers_count": 644,
+    "open_issues_count": 21,
+    "forks_count": 69
   },
   {
     "full_name": "SteveSandersonMS/presentation-2019-10-NDCSydney",
@@ -43,21 +43,21 @@
   },
   {
     "full_name": "SamProf/MatBlazor",
-    "stargazers_count": 2602,
+    "stargazers_count": 2604,
     "open_issues_count": 382,
     "forks_count": 308
   },
   {
     "full_name": "rossmann-engineering/EasyModbusTCP.NET",
-    "stargazers_count": 487,
+    "stargazers_count": 488,
     "open_issues_count": 41,
     "forks_count": 258
   },
   {
     "full_name": "dotnet/aspnetcore",
-    "stargazers_count": 27121,
-    "open_issues_count": 2246,
-    "forks_count": 7347
+    "stargazers_count": 27155,
+    "open_issues_count": 2233,
+    "forks_count": 7359
   },
   {
     "full_name": "tmsmith/Dapper-Extensions",
@@ -67,39 +67,39 @@
   },
   {
     "full_name": "dotnet/blazor",
-    "stargazers_count": 9334,
+    "stargazers_count": 9336,
     "open_issues_count": 0,
     "forks_count": 685
   },
   {
     "full_name": "ElectronNET/Electron.NET",
-    "stargazers_count": 6144,
+    "stargazers_count": 6147,
     "open_issues_count": 139,
-    "forks_count": 609
+    "forks_count": 608
   },
   {
     "full_name": "Fody/Fody",
-    "stargazers_count": 3534,
+    "stargazers_count": 3536,
     "open_issues_count": 2,
-    "forks_count": 412
+    "forks_count": 413
   },
   {
     "full_name": "tesseract-ocr/tesseract",
-    "stargazers_count": 43734,
-    "open_issues_count": 352,
-    "forks_count": 7782
+    "stargazers_count": 43780,
+    "open_issues_count": 354,
+    "forks_count": 7783
   },
   {
     "full_name": "denoland/deno",
-    "stargazers_count": 80021,
-    "open_issues_count": 731,
-    "forks_count": 4274
+    "stargazers_count": 80110,
+    "open_issues_count": 741,
+    "forks_count": 4277
   },
   {
     "full_name": "salomonelli/best-resume-ever",
-    "stargazers_count": 15199,
+    "stargazers_count": 15205,
     "open_issues_count": 54,
-    "forks_count": 2162
+    "forks_count": 2161
   },
   {
     "full_name": "berwinter/uvr1611",
